@@ -19,7 +19,7 @@
 
 1. 克隆或下载本项目到本地
    ```bash
-   git clone https://github.com/yourusername/text-analyzer.git
+   git clone https://github.com/ChidcGithub/Words_analyzer.git
    cd text-analyzer
    ```
 
